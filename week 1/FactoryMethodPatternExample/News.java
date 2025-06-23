@@ -1,4 +1,4 @@
-// No class should be public
+
 interface Document {
     void open();
 }
